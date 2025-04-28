@@ -1,4 +1,5 @@
 Clothing Order System (Java GUI)
+
 Welcome to the Clothing Order System, a desktop shopping app built using Java Swing!
 This project simulates an online clothing store experience — users can log in, browse products by category, add items to a cart, and proceed to checkout.
 No database is needed; all data is managed locally using .dat files for persistence.
